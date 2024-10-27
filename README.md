@@ -4,4 +4,10 @@ In this repository, the behaviour of elastic bodies with _density dependent Youn
 
 Vít Průša and **Ladislav Trnka**. Mechanical response of elastic materials with density dependent Young modulus. _Applications in Engineering Science_, 14:100126, 2023. ISSN 2666-4968. [doi:10.1016/j.apples.2023.100126](https://doi.org/10.1016/j.apples.2023.100126)
 
-{% include images.html url="fig/cylinder_n_1.png" description="Extension of a right circular cylinder, prediction by the standard linearised elasticity model (red), prediction by the model with density dependent Young modulus (yellow)" %}
+<p style="text-align: center;">
+    <a href="fig/cylinder_n_1.png">
+    <img src="fig/cylinder_n_1.png" alt="Extension of a right circular cylinder, prediction by the standard linearised elasticity model (red), prediction by the model with density dependent Young modulus (yellow)" style="display: block; margin-left: auto; margin-right: auto; width: 500px;   height:auto;">
+    </a>
+    <em>Extension of a right circular cylinder, prediction by the standard linearised elasticity model (red), prediction by the model with density dependent Young modulus (yellow)</em>
+</p>
+
